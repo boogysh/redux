@@ -1,7 +1,7 @@
 # Instructions
 
 ## 1. Open your terminal and then type:
-### $ git clone https://github.com/boogysh/OCR_PR7.git 
+### $ git clone https://github.com/boogysh/redux.git 
 This clones the repo
 
 ## 2. cd into the new folder and type:
